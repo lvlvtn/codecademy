@@ -40,6 +40,7 @@ Currently, when a visitor to MuscleHub is considering buying a membership, he or
 - Take a fitness test with a personal trainer
 - Fill out an application for the gym
 - Send in their payment for their first month’s membership
+
 Janet, the manager of MuscleHub, thinks that the fitness test intimidates some prospective members, so she has set up an A/B test.
 Visitors will randomly be assigned to one of two groups:
 - Group A will still be asked to take a fitness test with a personal trainer
