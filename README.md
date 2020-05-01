@@ -45,6 +45,7 @@ Janet, the manager of MuscleHub, thinks that the fitness test intimidates some p
 Visitors will randomly be assigned to one of two groups:
 - Group A will still be asked to take a fitness test with a personal trainer
 - Group B will skip the fitness test and proceed directly to the application
+
 Janet’s hypothesis is that visitors assigned to Group B will be more likely to eventually purchase a membership to MuscleHub.
 
 ## Financial Data Analysis Projects
