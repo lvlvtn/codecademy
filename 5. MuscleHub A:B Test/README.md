@@ -1,0 +1,2 @@
+# MuscleHub A/B test
+Analysis of A/B test results for imaginary gym. SQL database was provided by Codecademy. Performed table transformation with SQL and Pandas, tested significance with SciPy, visualised data with Matplotlib and Plotly. Analysis determined that canceling fitness test increases membership purchases. Chose to increase significance level to insure gym does not keep the test that decreases purchases or cancel the test that increases them. Recommended to run more A/B test before canceling fitness test.
