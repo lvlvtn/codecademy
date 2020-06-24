@@ -1,0 +1,2 @@
+## eBay Kleinanzeigen Data Cleaning
+This study project analyses used vehicles ads from eBay Kleinanzeigen. Its main goal is to clean the data, using various Pandas and Numpy methods and techniques, and subsequently to conduct exploratory analysis on most popular brands and average price. <a href="https://www.kaggle.com/orgesleka/used-cars-database/data">The dataset</a> was originally scraped and uploaded to Kaggle, but was sampled and prepered by Dataquest to simulate a less-cleaned and version of the data. 
